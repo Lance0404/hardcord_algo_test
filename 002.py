@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-
+# this went timeout during the test
 
 #
 # Complete the 'shortestSubstring' function below.
