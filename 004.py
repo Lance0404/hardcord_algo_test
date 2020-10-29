@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-
+# wrong version done during the test
 
 #
 # Complete the 'getMinimumUniqueSum' function below.
